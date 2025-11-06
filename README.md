@@ -8,20 +8,20 @@ The primary objective of this project was to derive actionable business insights
 •	Recommendations to enhance sales and operational performance
 The end goal was to translate raw transactional data into clear, visual, and data-driven insights that could guide the CEO in growing revenue and optimizing product offerings.
 
-### 2. Tools Used	
-# Miro	
+## 2. Tools Used	
+### Miro	
 Purpose - Planning and architecture design for data flow.
 Output - Data Architecture Diagram & Insight Planning.
 
-# Snowflake	
+### Snowflake	
 Purpose - Data storage, cleaning, and transformation using SQL queries.	
 Output - Processed dataset ready for visualization.
 
-# Microsoft Excel	
+### Microsoft Excel	
 Purpose - Data visualization using Pivot Tables and Graphs for analysis and storytelling.
 Output - Dashboards, Charts & Pivot Summaries.
 
-# Microsoft PowerPoint	
+### Microsoft PowerPoint	
 Purpose - Final presentation to communicate findings, visuals, and recommendations.
 Output - Executive Presentation Slides
 
